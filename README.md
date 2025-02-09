@@ -33,12 +33,18 @@ The following GIFs demonstrate how the system refines the user click to select t
 
 ## Example Results
 
-Below are sample results from the DRL click adjustment and segmentation steps:
+Below are sample results from the DRL click adjustment :
 
-![Result Test 1](DRL_results_Example_for_readme/Result_test_1.png)
-![Result Test 2](DRL_results_Example_for_readme/Result_test_2.png)
-![Result Train 1](DRL_results_Example_for_readme/Result_train_1.png)
-![Result Train 2](DRL_results_Example_for_readme/Result_train_2.png)
+<p align="center">
+  <img src="DRL_results%20Example%20for%20readme/Result%20test%201.png" width="45%">
+  <img src="DRL_results%20Example%20for%20readme/Result%20test%202.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="DRL_results%20Example%20for%20readme/Result%20train%201.png" width="45%">
+  <img src="DRL_results%20Example%20for%20readme/Result%20train%202.png" width="45%">
+</p>
+
 
 ## Important Notes
 
